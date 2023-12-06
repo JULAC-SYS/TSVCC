@@ -500,7 +500,7 @@ U+5BD3 寓 | U+5EBD 庽 | #EACC link ([21/2D]3B2A)
 U+5BDF 察 | U+8A67 詧 | #EACC link ([21/2D]3B33)
 U+5BE2 寢 | U+5BDD 寝 | #EACC link ([21/27]3B2E)
 U+5BE6 實 | U+5B9E 实 | U+5B9F 実 | #EACC link ([21/27/4B]3B31)
-U+5BE7 寧 | U+5B81 宁 | U+5BD5 寕 | U+5BDC 寜 | U+F95F 寧 | U+F9AA 寧 | U+752F 甯 | U+5BD7 寗 #EACC link ([21/27]3B32) AND kZVariant of U+5BD5 is U+5BE7 AND kZVariant of U+5BDC is U+5BE7 AND kZVariant of U+F95F is U+5BE7 AND kZVariant of U+F9AA is U+5BE7 AND kZVariant of U+752F is U+5BE7 AND kZVariant of U+5BD7 is U+5BE7
+U+5BE7 寧 | U+5B81 宁 | U+5BD5 寕 | U+5BDC 寜 | U+F95F 寧 | U+F9AA 寧 | U+752F 甯 | U+5BD7 寗 | #EACC link ([21/27]3B32) AND kZVariant of U+5BD5 is U+5BE7 AND kZVariant of U+5BDC is U+5BE7 AND kZVariant of U+F95F is U+5BE7 AND kZVariant of U+F9AA is U+5BE7 AND kZVariant of U+752F is U+5BE7 AND kZVariant of U+5BD7 is U+5BE7
 U+5BE9 審 | U+5BA1 审 | #EACC link ([21/27]3B36)
 U+5BEB 寫 | U+5199 写 | U+51A9 冩 | #EACC link ([21/27/4B]3B37)
 U+5BEC 寬 | U+5BBD 宽 | U+5BDB 寛 | #EACC link ([21/27/39]3B35)
@@ -2931,7 +2931,7 @@ U+96D5 雕 | U+9D70 鵰 | U+5F6B 彫 | U+7431 琱 | U+51CB 凋 | #EACC link ([21
 U+96D6 雖 | U+867D 虽 | #EACC link ([21/27]5F4A)
 U+96D9 雙 | U+53CC 双 | #EACC link ([21/27]5F4E)
 U+96DB 雛 | U+96CF 雏 | #EACC link ([21/27]5F4D)
-U+96DC 雜 | U+6742 杂 | U+96D1 雑 | U+894D 襍 | U+3C77 㱷 | U+4316 䌖 #EACC link ([21/27/2D]5F4B)
+U+96DC 雜 | U+6742 杂 | U+96D1 雑 | U+894D 襍 | U+3C77 㱷 | U+4316 䌖 | #EACC link ([21/27/2D]5F4B)
 U+96DE 雞 | U+9E21 鸡 | U+9DC4 鷄 | U+9D8F 鶏 | U+9CEE 鳮 | #EACC link ([21/27/2D/4B]5F4C) AND kZVariant of U+9CEE is U+96DE
 U+96E2 離 | U+79BB 离 | U+F9EA 離 | #EACC link ([21/27]5F4F) AND kZVariant of U+96E2 is U+F9EA
 U+96E3 難 | U+96BE 难 | #EACC link ([21/27/4B]5F50)
