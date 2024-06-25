@@ -15,7 +15,7 @@ U+4E0A 上 | U+4E04 丄 | #EACC link ([21/2D]3026)
 U+4E0B 下 | U+4E05 丅 | #EACC link ([21/2D]3025)
 U+4E0D 不 | U+F967 不 | #kZVariant of U+4E0D is U+F967
 U+4E16 世 | U+4E17 丗 | U+534B 卋 | #EACC link ([21/2D/39]302D)
-U+4E18 丘 | U+4E20 丠 | #kZVariant of U+4E18 is U+4E20
+U+4E18 丘 | U+4E20 丠 | U+5775 坵 | #kZVariant of U+4E18 is U+4E20 AND kSemanticVariant of U+5775 is U+4E18
 U+4E1F 丟 | U+4E22 丢 | #kSimplifiedVariant of U+4E1F is U+4E22
 U+4E26 並 | U+5E76 并 | U+7ADD 竝 | U+4F75 併 | U+5002 倂 | U+5E77 幷 | #EACC link ([21/27/2D]3032),([21/2D]3147) AND kSimplifiedVariant of U+4F75 is U+5E76 AND kZVariant of U+4E26 is U+5E77
 U+4E31 丱 | U+535D 卝 | #kZVariant of U+4E31 is U+535D
@@ -88,7 +88,7 @@ U+5077 偷 | U+5078 偸 | #kZVariant of U+5077 is U+5078
 U+507D 偽 | U+4F2A 伪 | U+50DE 僞 | #EACC link ([21/27/2D]3256)
 U+5091 傑 | U+6770 杰 | #EACC link ([21/27]3241)
 U+5096 傖 | U+4F27 伧 | #EACC link ([21/27]3243)
-U+5098 傘 | U+4F1E 伞 | #EACC link ([21/27]3244)
+U+5098 傘 | U+4F1E 伞 | U+7E56 繖 | #EACC link ([21/27]3244) AND kSemanticVariant of U+7E56 is U+5098
 U+5099 備 | U+5907 备 | U+5079 偹 | U+4FFB 俻 | #EACC link ([21/27/2D/33]3240)
 U+50A2 傢 | U+5BB6 家 | #EACC link ([21/27]323E)
 U+50A4 傤 | U+510E 儎 | #kZVariant of U+50A4 is U+510E
@@ -157,7 +157,7 @@ U+51DC 凜 | U+51DB 凛 | U+F954 凜 | #EACC link ([21/33]3344) AND kZVariant of
 U+51DE 凞 | U+FA15 凞 | #kZVariant of U+FA15 is U+51DE
 U+51E1 凡 | U+51E2 凢 | U+51E3 凣 | #kZVariant of U+51E1 is U+51E2 AND kZVariant of U+51E3 is U+51E1
 U+51F1 凱 | U+51EF 凯 | #EACC link ([21/27]3348)
-U+51FA 出 | U+5C80 岀 | #kZVariant of U+51FA is U+5C80
+U+51FA 出 | U+5C80 岀 | U+9F63 齣 | #kZVariant of U+51FA is U+5C80 AND kSimplifiedVariant of U+9F63 is U+51FA
 U+51FD 函 | U+51FE 凾 | #EACC link ([21/33]334E)
 U+5200 刀 | U+5202 刂 | #EACC link ([21/2D]334F)
 U+5203 刃 | U+5204 刄 | #EACC link ([21/4B]3351)
@@ -165,7 +165,7 @@ U+5207 切 | U+FA00 切 | #kZVariant of U+5207 is U+FA00
 U+5208 刈 | U+82C5 苅 | #EACC link ([21/4B]3354)
 U+520A 刊 | U+520B 刋 | #EACC link ([21/4B]3355)
 U+5217 列 | U+F99C 列 | #kZVariant of U+5217 is U+F99C
-U+5225 別 | U+522B 别 | #EACC link ([21/4B]335B)
+U+5225 別 | U+522B 别 | U+5F46 彆 | #EACC link ([21/4B]335B) AND kSimplifiedVariant of U+5F46 is U+522B 
 U+5229 利 | U+F9DD 利 | #kZVariant of U+5229 is U+F9DD
 U+522A 刪 | U+5220 删 | #kSimplifiedVariant of U+522A is U+5220
 U+5231 刱 | U+524F 剏 | U+5259 剙 | #EACC link ([21/2D/33/39]6B33)
@@ -218,7 +218,7 @@ U+5339 匹 | U+758B 疋 | #EACC link ([21/2D]3453)
 U+533F 匿 | U+F9EB 匿 | #kZVariant of U+533F is U+F9EB
 U+5340 區 | U+533A 区 | #EACC link ([21/27]3455)
 U+5341 十 | U+62FE 拾 | U+F973 拾 | #EACC link ([21/2D]3457) AND kZVariant of U+5341 is U+F973
-U+5343 千 | U+4EDF 仟 | #EACC link ([21/2D]3458)
+U+5343 千 | U+4EDF 仟 | U+97C6 韆 | #EACC link ([21/2D]3458) AND kSimplifiedVariant of U+97C6 is U+5343
 U+5347 升 | U+6607 昇 | U+965E 陞 | #EACC link ([21/2D/39]345B)
 U+534D 卍 | U+5350 卐 | #kZVariant of U+534D is U+5350
 U+5352 卒 | U+5346 卆 | #EACC link ([21/27]345F)
@@ -273,7 +273,7 @@ U+5527 唧 | U+559E 喞 | #EACC link ([21/39]365E)
 U+5537 唷 | U+5539 唹 | #kZVariant of U+5537 is U+5539
 U+554F 問 | U+95EE 问 | #EACC link ([21/27]3648)
 U+5553 啓 | U+542F 启 | U+555F 啟 | U+5554 啔 | #EACC link ([21/27/2D/39/3F]424F)
-U+5556 啖 | U+5557 啗 | #EACC link ([21/2D]3644)
+U+5556 啖 | U+5557 啗 | U+5649 噉 | #EACC link ([21/2D]3644) AND kSemanticVariant of U+5649 is U+5556
 U+555E 啞 | U+54D1 哑 | U+5516 唖 | #EACC link ([21/27/2D]3649)
 U+5562 啢 | U+5521 唡 | #EACC link ([21/27]7060)
 U+556F 啯 | U+5613 嘓 | #kZVariant of U+556F is U+5613
@@ -298,12 +298,12 @@ U+55DA 嗚 | U+545C 呜 | #EACC link ([21/27]3721)
 U+55E3 嗣 | U+5B60 孠 | #EACC link ([21/2D]367B)
 U+55E9 嗩 | U+5522 唢 | #EACC link ([21/27]7169)
 U+55F6 嗶 | U+54D4 哔 | #EACC link ([21/27]7239)
-U+5606 嘆 | U+53F9 叹 | #EACC link ([21/27/4B]372C)
+U+5606 嘆 | U+53F9 叹 | U+6B4E 歎 | #EACC link ([21/27/4B]372C) AND kSemanticVariant of U+6B4E is U+5606
 U+560D 嘍 | U+55BD 喽 | #EACC link ([21/27]3731)
 U+560E 嘎 | U+5C1C 尜 | #EACC link ([21/4B]372F)
 U+5614 嘔 | U+5455 呕 | #EACC link ([21/27]372E)
 U+5616 嘖 | U+5567 啧 | #EACC link ([21/27]3727)
-U+5617 嘗 | U+5C1D 尝 | U+751E 甞 | #EACC link ([21/27/2D]3730)
+U+5617 嘗 | U+5C1D 尝 | U+751E 甞 | U+5690 嚐 | #EACC link ([21/27/2D]3730) AND U+5690 is a variant of U+5C1D (现代汉语词典)
 U+561C 嘜 | U+551B 唛 | #EACC link ([21/27]7234)
 U+562E 嘮 | U+5520 唠 | #EACC link ([21/27]3732)
 U+562F 嘯 | U+5578 啸 | U+5628 嘨 | #EACC link ([21/27/33]3733)
@@ -399,7 +399,7 @@ U+5879 塹 | U+5811 堑 | #EACC link ([21/27]385B)
 U+588A 墊 | U+57AB 垫 | #EACC link ([21/27]385A)
 U+589C 墜 | U+5760 坠 | #EACC link ([21/27]3861)
 U+589E 增 | U+5897 増 | #EACC link ([21/4B]385E)
-U+58AE 墮 | U+5815 堕 | #EACC link ([21/27]3862)
+U+58AE 墮 | U+5815 堕 | U+58AF 墯 | #EACC link ([21/27]3862) AND U+58AF is a variant of U+58AE (異體字字典)
 U+58B3 墳 | U+575F 坟 | #EACC link ([21/27]3860)
 U+58BA 墺 | U+572B 圫 | #EACC link ([21/33]784C)
 U+58BE 墾 | U+57A6 垦 | #EACC link ([21/27]3867)
@@ -508,7 +508,7 @@ U+5BEE 寮 | U+F9BC 寮 | #kZVariant of U+5BEE is U+F9BC
 U+5BF5 寵 | U+5BA0 宠 | #EACC link ([21/27]3B38)
 U+5BF6 寶 | U+5B9D 宝 | U+5BF3 寳 | #EACC link ([21/27/39]3B39)
 U+5C07 將 | U+5C06 将 | #EACC link ([21/27/2D]3B40)
-U+5C08 專 | U+4E13 专 | U+5C02 専 | #EACC link ([21/27/2D]3B3F)
+U+5C08 專 | U+4E13 专 | U+5C02 専 | U+8011 耑 | #EACC link ([21/27/2D]3B3F) AND kSemanticVariant of U+8011 is U+5C08
 U+5C0B 尋 | U+5BFB 寻 | #EACC link ([21/27]3B42)
 U+5C0D 對 | U+5BF9 对 | U+5BFE 対 | #EACC link ([21/27/4B]3B43)
 U+5C0E 導 | U+5BFC 导 | #EACC link ([21/27]3B44)
@@ -564,7 +564,7 @@ U+5DBD 嶽 | U+5CB3 岳 | #EACC link ([21/27]3C2E)
 U+5DCB 巋 | U+5CBF 岿 | #EACC link ([22/28]2647)
 U+5DD2 巒 | U+5CE6 峦 | #EACC link ([21/27]3C31)
 U+5DD4 巔 | U+5DC5 巅 | U+5DD3 巓 | #EACC link ([21/27/4B]3C32)
-U+5DD6 巖 | U+5CA9 岩 | U+5DCC 巌 | #EACC link ([21/27/4B]3C33)
+U+5DD6 巖 | U+5CA9 岩 | U+5DCC 巌 | U+5D52 嵒 | #EACC link ([21/27/4B]3C33) AND U+5D52 is a variant of U+5DD6 (異體字字典)
 U+5DE1 巡 | U+5EF5 廵 | #EACC link ([21/2D]5B69)
 U+5DE2 巢 | U+5DE3 巣 | #EACC link ([21/2D]3C36)
 U+5DE8 巨 | U+9245 鉅 | U+949C 钜 | #EACC link ([21/2D/4B]3C38)
@@ -637,7 +637,7 @@ U+5FB5 徵 | U+5F81 征 | U+5FB4 徴 | #EACC link ([21/27/2D]3D76)
 U+5FB7 德 | U+60EA 惪 | U+5FB3 徳 | U+60B3 悳 | #EACC link ([21/2D/33]3D75) AND kZVariant of U+60B3 is U+5FB7
 U+5FB9 徹 | U+5F7B 彻 | #EACC link ([21/27]3D74)
 U+5FC3 心 | U+5FC4 忄 | #EACC link ([21/27]3D78)
-U+5FF5 念 | U+F9A3 念 | #kZVariant of U+5FF5 is U+F9A3
+U+5FF5 念 | U+F9A3 念 | U+5538 唸 | #kZVariant of U+5FF5 is U+F9A3 AND U+5538 is a variant of U+5FF5 (现代汉语词典)
 U+6012 怒 | U+F960 怒 | #kZVariant of U+6012 is U+F960
 U+6016 怖 | U+6091 悑 | #EACC link ([21/2D]3E2D)
 U+601D 思 | U+6056 恖 | #EACC link ([21/2D]3E2E)
@@ -772,7 +772,7 @@ U+640D 損 | U+635F 损 | #EACC link ([21/27]414F)
 U+6414 搔 | U+63BB 掻 | #EACC link ([21/45]414E)
 U+6416 搖 | U+6447 摇 | #EACC link ([21/2D]4152)
 U+6417 搗 | U+6363 捣 | U+64E3 擣 | #EACC link ([21/27/2D]4153)
-U+641C 搜 | U+635C 捜 | #EACC link ([21/2D]4154)
+U+641C 搜 | U+635C 捜 | U+8490 蒐 | #EACC link ([21/2D]4154) AND U+8490 is a variant of U+641C (现代汉语词典)
 U+642D 搭 | U+6428 搨 | #EACC link ([21/2D]4150)
 U+6432 搲 | U+6528 攨 | #EACC link ([22/2E]3328)
 U+6435 搵 | U+63FE 揾 | #kSimplifiedVariant of U+6435 is U+63FE
@@ -791,7 +791,7 @@ U+6493 撓 | U+6320 挠 | #EACC link ([21/27]4168)
 U+649A 撚 | U+F991 撚 | #kZVariant of U+649A is U+F991
 U+649D 撝 | U+39D1 㧑 | #kSimplifiedVariant of U+649D is U+39D1
 U+649F 撟 | U+6322 挢 | #EACC link ([22/28]3462)
-U+64A3 撣 | U+63B8 掸 | #EACC link ([22/28]3457)
+U+64A3 撣 | U+63B8 掸 | U+64A2 撢 | #EACC link ([22/28]3457) AND kSpecializedSemanticVariant of U+64A2 is U+64A3
 U+64A5 撥 | U+62E8 拨 | #EACC link ([21/27]4166)
 U+64AB 撫 | U+629A 抚 | U+62CA 拊 | #EACC link ([21/27/2D]4171)
 U+64B2 撲 | U+6251 扑 | U+6534 攴 | #EACC link ([21/27/2D]416E)
@@ -836,7 +836,7 @@ U+652A 攪 | U+6405 搅 | U+64B9 撹 | #EACC link ([21/27/4B]423A)
 U+652C 攬 | U+63FD 揽 | #EACC link ([21/27]423B)
 U+6535 攵 | U+590A 夊 | #EACC link ([21/4B]7874)
 U+6536 收 | U+53CE 収 | #EACC link ([21/33]423D)
-U+6548 效 | U+52B9 効 | U+4FF2 俲 | #EACC link ([21/33/39]4243)
+U+6548 效 | U+52B9 効 | U+4FF2 俲 | U+509A 傚 | #EACC link ([21/33/39]4243) AND U+509A is a variant of U+6548 (異體字字典)
 U+654E 敎 | U+6559 教 | #EACC link ([21/33]4244)
 U+654F 敏 | U+52C4 勄 | #EACC link ([21/2D]424A)
 U+6553 敓 | U+655A 敚 | #kZVariant of U+6553 is U+655A
@@ -913,7 +913,7 @@ U+6729 朩 | U+7B49 等 | #kZVariant of U+6729 is U+7B49
 U+672C 本 | U+694D 楍 | U+5932 夲 | #EACC link ([21/2D/33]4369)
 U+6732 朲 | U+6741 杁 | #EACC link ([22/4C]3A55)
 U+6735 朵 | U+6736 朶 | #EACC link ([21/2D]4370)
-U+6745 杅 | U+572C 圬 | U+6859 桙 | #EACC link ([22/34/4C]3A5B)
+U+6745 杅 | U+572C 圬 | U+6859 桙 | U+6747 杇 | #EACC link ([22/34/4C]3A5B) AND kSemanticVariant of U+6747 is U+572C
 U+674E 李 | U+F9E1 李 | #kZVariant of U+674E is U+F9E1
 U+676F 杯 | U+686E 桮 | U+76C3 盃 | #EACC link ([21/2D/33]4425)
 U+6771 東 | U+4E1C 东 | #EACC link ([21/27]4426)
@@ -975,7 +975,7 @@ U+69AE 榮 | U+8363 荣 | U+6804 栄 | #EACC link ([21/27/4B]4537)
 U+69B4 榴 | U+6A4A 橊 | #EACC link ([21/33]4541)
 U+69BF 榿 | U+6864 桤 | #EACC link ([22/28]4027)
 U+69CB 構 | U+6784 构 | U+6406 搆 | #EACC link ([21/27/2D]4539)
-U+69CD 槍 | U+67AA 枪 | #EACC link ([21/27]4540)
+U+69CD 槍 | U+67AA 枪 | U+9397 鎗 | #EACC link ([21/27]4540) AND U+9397 is a variant of U+69CD (異體字字典)
 U+69D3 槓 | U+6760 杠 | #EACC link ([21/2D]453A)
 U+69D4 槔 | U+6A70 橰 | U+6855 桕 | #EACC link ([22/2E/3A]4034)
 U+69D9 槙 | U+69C7 槇 | #EACC link ([22/4C]3F68)
@@ -1038,7 +1038,7 @@ U+6AF3 櫳 | U+680A 栊 | U+69DE 槞 | #EACC link ([22/28/4C]4339)
 U+6AF8 櫸 | U+6989 榉 | U+6B05 欅 | #EACC link ([22/28/4C]4359)
 U+6AFA 櫺 | U+68C2 棂 | U+6B1E 欞 | #EACC link ([22/28]4350) AND kSimplifiedVariant of U+6B1E is U+68C2
 U+6AFB 櫻 | U+6A31 樱 | U+685C 桜 | #EACC link ([21/27/4B]456F)
-U+6B04 欄 | U+680F 栏 | U+F91D 欄 | #EACC link ([21/27]456E) AND kZVariant of U+6B04 is U+F91D
+U+6B04 欄 | U+680F 栏 | U+F91D 欄 | U+6B17 欗 | #EACC link ([21/27]456E) AND kZVariant of U+6B04 is U+F91D AND U+6B17 is a variant of U+6B04 (異體字字典)
 U+6B0A 權 | U+6743 权 | U+6A29 権 | #EACC link ([21/27/4B]4570)
 U+6B0F 欏 | U+6924 椤 | #EACC link ([22/28]4366)
 U+6B16 欖 | U+6984 榄 | #EACC link ([21/27]4571)
@@ -1063,7 +1063,7 @@ U+6BB0 殰 | U+3C69 㱩 | #kSimplifiedVariant of U+6BB0 is U+3C69
 U+6BB2 殲 | U+6B7C 歼 | U+6BB1 殱 | #EACC link ([21/27/4B]4638)
 U+6BBA 殺 | U+6740 杀 | U+F970 殺 | #EACC link ([21/27]463B) AND kZVariant of U+6BBA is U+F970
 U+6BBC 殼 | U+58F3 壳 | U+6BBB 殻 | #EACC link ([21/27/33]463C)
-U+6BC0 毀 | U+6BC1 毁 | #kSimplifiedVariant of U+6BC0 is U+6BC1
+U+6BC0 毀 | U+6BC1 毁 | U+71EC 燬 | U+8B6D 譭 | #kSimplifiedVariant of U+6BC0 is U+6BC1 AND U+71EC is a variant of U+6BC1 (现代汉语词典) AND U+8B6D is a variant of U+6BC1 (现代汉语词典)
 U+6BC6 毆 | U+6BB4 殴 | #EACC link ([21/27]4640)
 U+6BCF 每 | U+6BCE 毎 | #EACC link ([21/3F]4643)
 U+6BD4 比 | U+5936 夶 | #EACC link ([21/2D]4646)
@@ -1139,7 +1139,7 @@ U+6E90 源 | U+6C85 沅 | U+53B5 厵 | #EACC link ([21/27]4841) AND kZVariant of
 U+6E96 準 | U+51C6 准 | U+51D6 凖 | #EACC link ([21/27/4B]484B)
 U+6E9C 溜 | U+6F91 澑 | U+F9CB 溜 | #EACC link ([21/4B]484C) AND kZVariant of U+6E9C is U+F9CB
 U+6E9D 溝 | U+6C9F 沟 | #EACC link ([21/27]483D)
-U+6EAA 溪 | U+5D60 嵠 | U+6E13 渓 | #EACC link ([21/3F/4B]484A)
+U+6EAA 溪 | U+5D60 嵠 | U+6E13 渓 | U+8C3F 谿 | #EACC link ([21/3F/4B]484A) AND kSemanticVariant of U+8C3F is U+5D60
 U+6EAB 溫 | U+6E29 温 | #EACC link ([21/2D]4845)
 U+6EAE 溮 | U+6D49 浉 | #EACC link ([22/28]4C23)
 U+6EAF 溯 | U+6CDD 泝 | U+9061 遡 | #EACC link ([21/33/39]483B)
@@ -1253,7 +1253,7 @@ U+711A 焚 | U+71CC 燌 | #EACC link ([21/39]4964)
 U+7121 無 | U+65E0 无 | #EACC link ([21/27]4966)
 U+7126 焦 | U+7133 焳 | #EACC link ([21/33]4968)
 U+712D 焭 | U+7162 煢 | U+8315 茕 | #EACC link ([22/34/4C]5175)
-U+7130 焰 | U+7114 焔 | #EACC link ([21/4B]4967)
+U+7130 焰 | U+7114 焔 | U+71C4 燄 | #EACC link ([21/4B]4967) AND kSemanticVariant of U+71C4 is U+7130
 U+7149 煉 | U+70BC 炼 | U+934A 鍊 | U+932C 錬 | U+F993 煉 | U+F99B 鍊 | #EACC link ([21/27/33/4B]496A) AND kZVariant of U+7149 is U+F993 AND kZVariant of U+934A is U+F99B
 U+7152 煒 | U+709C 炜 | #EACC link ([22/28]5252)
 U+7159 煙 | U+70DF 烟 | U+83F8 菸 | U+852B 蔫 | #EACC link ([21/2D/4B/51]496B)
@@ -1439,9 +1439,9 @@ U+76CA 益 | U+FA17 益 | #kZVariant of U+76CA is U+FA17
 U+76CC 盌 | U+6900 椀 | #EACC link ([22/34]6126)
 U+76CD 盍 | U+76C7 盇 | #EACC link ([21/2D]4D34)
 U+76DC 盜 | U+76D7 盗 | #EACC link ([21/2D]4D38)
-U+76DE 盞 | U+76CF 盏 | #EACC link ([21/27]4D3A)
+U+76DE 盞 | U+76CF 盏 | U+9186 醆 | #EACC link ([21/27]4D3A) AND kSemanticVariant of U+9186 is U+76DE
 U+76E3 監 | U+76D1 监 | #EACC link ([21/27]4D3D)
-U+76E4 盤 | U+76D8 盘 | #EACC link ([21/27]4D3E)
+U+76E4 盤 | U+76D8 盘 | U+69C3 槃 | #EACC link ([21/27]4D3E) AND U+69C3 is a variant of U+76E4 (異體字字典)
 U+76E7 盧 | U+5362 卢 | U+F933 盧 | #EACC link ([21/27]4D3F) AND kZVariant of U+F933 is U+76E7
 U+76EA 盪 | U+862F 蘯 | #EACC link ([21/4B]4D41)
 U+7701 省 | U+F96D 省 | #kZVariant of U+7701 is U+F96D
@@ -1484,7 +1484,7 @@ U+788E 碎 | U+7815 砕 | #EACC link ([21/27]4E3E)
 U+78A9 碩 | U+7855 硕 | #EACC link ([21/27]4E45)
 U+78AD 碭 | U+7800 砀 | #EACC link ([22/28]6540)
 U+78B8 碸 | U+781C 砜 | #kSimplifiedVariant of U+78B8 is U+781C
-U+78BA 確 | U+786E 确 | #EACC link ([21/27]4E49)
+U+78BA 確 | U+786E 确 | U+78BB 碻 | #EACC link ([21/27]4E49) AND U+78BB is a variant of U+78BA (異體字字典)
 U+78BC 碼 | U+7801 码 | #EACC link ([21/27]4E4C)
 U+78C1 磁 | U+7920 礠 | #EACC link ([21/2D]4E4A)
 U+78CA 磊 | U+F947 磊 | #kZVariant of U+78CA is U+F947
@@ -1523,7 +1523,7 @@ U+79B1 禱 | U+7977 祷 | #EACC link ([21/27]4E7D)
 U+79BF 禿 | U+79C3 秃 | #kSimplifiedVariant of U+79BF is U+79C3
 U+79C1 私 | U+53B6 厶 | #EACC link ([21/27]4F25)
 U+79C8 秈 | U+7C7C 籼 | #EACC link ([22/34]682A)
-U+79CB 秋 | U+9F9D 龝 | U+7A50 穐 | U+418B 䆋 | #EACC link ([21/2D/4B]4F29) AND kZVariant of U+418B is U+9F9D
+U+79CB 秋 | U+9F9D 龝 | U+7A50 穐 | U+418B 䆋 | U+97A6 鞦 | #EACC link ([21/2D/4B]4F29) AND kZVariant of U+418B is U+9F9D AND kSimplifiedVariant of U+97A6 is U+79CB
 U+79F4 秴 | U+8020 耠 | #EACC link ([22/2E]684E)
 U+7A00 稀 | U+5E0C 希 | #EACC link ([21/27]4F36)
 U+7A02 稂 | U+84C8 蓈 | #EACC link ([22/2E]684F)
@@ -1578,7 +1578,7 @@ U+7B74 筴 | U+41F2 䇲 | #kSimplifiedVariant of U+7B74 is U+41F2
 U+7B86 箆 | U+7BE6 篦 | U+7B9F 箟 | #EACC link ([22/2E/4C]6C46)
 U+7B8B 箋 | U+7B3A 笺 | U+693E 椾 | U+724B 牋 | #EACC link ([21/27/2D/33]502B)
 U+7B8F 箏 | U+7B5D 筝 | #EACC link ([21/2D]502D)
-U+7B9A 箚 | U+672D 札 | U+5273 剳 | #EACC link ([21/27/2D]6B5F)
+U+7B9A 箚 | U+672D 札 | U+5273 剳 | U+5284 劄 | #EACC link ([21/27/2D]6B5F) AND kSemanticVariant of U+5284 is U+5273
 U+7B9D 箝 | U+94B3 钳 | U+9257 鉗 | #EACC link ([21/27/33]502A)
 U+7BB3 箳 | U+7C08 簈 | #kZVariant of U+7BB3 is U+7C08
 U+7BC0 節 | U+8282 节 | #EACC link ([21/27]5033)
@@ -1770,7 +1770,7 @@ U+7E36 縶 | U+7D77 絷 | #EACC link ([22/28]7275)
 U+7E37 縷 | U+7F15 缕 | U+F950 縷 | #EACC link ([21/27]5168) AND kZVariant of U+F950 is U+7E37
 U+7E39 縹 | U+7F25 缥 | #EACC link ([22/28]7279)
 U+7E3D 總 | U+603B 总 | U+6374 捴 | U+6403 搃 | U+7DCF 総 | U+7E02 縂 | #EACC link ([21/27/33/3F/4B]516D) AND kZVariant of U+7E02 is U+7E3D
-U+7E3E 績 | U+7EE9 绩 | #EACC link ([21/27]5166)
+U+7E3E 績 | U+7EE9 绩 | U+52E3 勣 | #EACC link ([21/27]5166) AND U+52E3 is a variant of U+7E3E (異體字字典)
 U+7E41 繁 | U+7DD0 緐 | #EACC link ([21/33]516B)
 U+7E43 繃 | U+7DB3 綳 | U+7EF7 绷 | #EACC link ([21/2D/4B]516A)
 U+7E45 繅 | U+7F2B 缫 | #EACC link ([21/27]516F)
@@ -1780,7 +1780,7 @@ U+7E52 繒 | U+7F2F 缯 | #EACC link ([22/28]732D)
 U+7E54 織 | U+7EC7 织 | #EACC link ([21/27]5171)
 U+7E55 繕 | U+7F2E 缮 | #EACC link ([21/27]5170)
 U+7E5A 繚 | U+7F2D 缭 | #EACC link ([21/27]5174)
-U+7E5E 繞 | U+7ED5 绕 | #EACC link ([21/27]5173)
+U+7E5E 繞 | U+7ED5 绕 | U+9076 遶 | #EACC link ([21/27]5173) AND kSemanticVariant of U+9076 is U+7E5E
 U+7E61 繡 | U+7EE3 绣 | U+7E4D 繍 | U+7D89 綉 | #EACC link ([21/27/2D/33]5172)
 U+7E69 繩 | U+7EF3 绳 | U+7E04 縄 | #EACC link ([21/27/4B]5176)
 U+7E6A 繪 | U+7ED8 绘 | U+7E62 繢 | U+7D75 絵 | U+7F0B 缋 | #EACC link ([21/27/2D/39/4B]5179)
@@ -2013,11 +2013,11 @@ U+85C9 藉 | U+501F 借 | U+8024 耤 | #EACC link ([21/27/2D]562E)
 U+85CD 藍 | U+84DD 蓝 | U+F923 藍 | #EACC link ([21/27/4B]5629) AND kZVariant of U+F923 is U+85CD
 U+85CE 藎 | U+8369 荩 | #EACC link ([23/29]2668)
 U+85CF 藏 | U+8535 蔵 | #EACC link ([21/4B]562B)
-U+85DD 藝 | U+827A 艺 | U+79C7 秇 | U+517F 兿 | U+82B8 芸 | U+8553 蕓 | #EACC link ([21/27/39/3F/4B]5631) AND kSimplifiedVariant of U+8553 is U+82B8
+U+85DD 藝 | U+827A 艺 | U+79C7 秇 | U+517F 兿 | U+82B8 芸 | U+8553 蕓 | U+84FA 蓺 | #EACC link ([21/27/39/3F/4B]5631) AND kSimplifiedVariant of U+8553 is U+82B8 AND kSemanticVariant of U+84FA is U+85DD
 U+85E5 藥 | U+836F 药 | U+846F 葯 | U+85AC 薬 | #EACC link ([21/27/2D/33]5635)
 U+85EA 藪 | U+85AE 薮 | U+7C54 籔 | #EACC link ([21/27/4B]5632)
 U+85F6 藶 | U+82C8 苈 | #EACC link ([23/29]2765)
-U+85F9 藹 | U+853C 蔼 | #EACC link ([21/27]5637)
+U+85F9 藹 | U+853C 蔼 | U+8B6A 譪 | #EACC link ([21/27]5637) AND U+8B6A is a variant of U+85F9 (異體字字典)
 U+85FA 藺 | U+853A 蔺 | U+F9F0 藺 | #EACC link ([21/27]5639) AND kZVariant of U+F9F0 is U+85FA
 U+8604 蘄 | U+8572 蕲 | #EACC link ([23/29]2768)
 U+8606 蘆 | U+82A6 芦 | U+F935 蘆 | #EACC link ([21/27/4B]563A) AND kZVariant of U+8606 is U+F935
@@ -2045,7 +2045,7 @@ U+867A 虺 | U+8770 蝰 | #EACC link ([23/4D]2925)
 U+868A 蚊 | U+87C1 蟁 | U+87A1 螡 | #EACC link ([21/33/39]5652)
 U+868B 蚋 | U+8739 蜹 | #EACC link ([23/2F]2A5A) AND U+868B multi-mapped 2F2A5A,23293D
 U+86CB 蛋 | U+65E6 旦 | #EACC link ([21/27]565A)
-U+86D4 蛔 | U+8716 蜖 | #EACC link ([21/45]5663)
+U+86D4 蛔 | U+8716 蜖 | U+8698 蚘 | #EACC link ([21/45]5663) AND kSemanticVariant of U+8698 is U+86D4
 U+86DB 蛛 | U+9F04 鼄 | #EACC link ([21/2D]5664)
 U+86FA 蛺 | U+86F1 蛱 | #EACC link ([23/29]2A2F)
 U+86FB 蛻 | U+8715 蜕 | #kSimplifiedVariant of U+86FB is U+8715
@@ -2379,7 +2379,7 @@ U+8CD1 賑 | U+8D48 赈 | #EACC link ([21/27]5A2A)
 U+8CD2 賒 | U+8D4A 赊 | #EACC link ([21/27]5A2B)
 U+8CD3 賓 | U+5BBE 宾 | U+8CD4 賔 | #EACC link ([21/27]5A29) AND kZVariant of U+8CD4 is U+8CD3
 U+8CD5 賕 | U+8D47 赇 | #EACC link ([23/29]365F)
-U+8CD9 賙 | U+8D52 赒 | #EACC link ([23/29]3674)
+U+8CD9 賙 | U+8D52 赒 | U+9031 週 | U+5468 周 | #EACC link ([23/29]3674) AND kSemanticVariant of U+9031 is U+5468 AND U+8CD9 is a variant of U+5468 (现代汉语词典)
 U+8CDA 賚 | U+8D49 赉 | #EACC link ([23/29]3670)
 U+8CDC 賜 | U+8D50 赐 | #EACC link ([21/27]5A33)
 U+8CDE 賞 | U+8D4F 赏 | #EACC link ([21/27]5A32)
@@ -2583,7 +2583,7 @@ U+9189 醉 | U+9154 酔 | #EACC link ([21/27]5D2A)
 U+918B 醋 | U+9162 酢 | #EACC link ([21/4B]5D2B)
 U+919C 醜 | U+4E11 丑 | #EACC link ([21/27]5D30)
 U+919E 醞 | U+915D 酝 | U+9196 醖 | #EACC link ([21/27/2D]5D2F)
-U+91AB 醫 | U+533B 医 | #EACC link ([21/27]5D31)
+U+91AB 醫 | U+533B 医 | U+6BC9 毉 | #EACC link ([21/27]5D31) AND kSpecializedSemanticVariant of U+6BC9 is U+91AB
 U+91AC 醬 | U+9171 酱 | U+91A4 醤 | #EACC link ([21/27]5D32) AND kZVariant of U+91A4 is U+91AC
 U+91B1 醱 | U+9166 酦 | U+9197 醗 | #EACC link ([23/29/47]4142)
 U+91B4 醴 | U+F9B7 醴 | #kZVariant of U+91B4 is U+F9B7
@@ -2604,7 +2604,7 @@ U+91D7 釗 | U+948A 钊 | #EACC link ([21/27]5D41)
 U+91D8 釘 | U+9489 钉 | #EACC link ([21/27]5D40)
 U+91D9 釙 | U+948B 钋 | #EACC link ([23/29]4164)
 U+91DC 釜 | U+91E1 釡 | #EACC link ([21/4B]5D42)
-U+91DD 針 | U+9488 针 | #EACC link ([21/27]5D3F)
+U+9488 针 | U+91DD 針 | U+937C 鍼 | #EACC link ([21/27]5D3F) AND kSemanticVariant of U+937C is U+91DD
 U+91E3 釣 | U+9493 钓 | U+921F 鈟 | #EACC link ([21/27/2D]5D45)
 U+91E4 釤 | U+9490 钐 | #EACC link ([23/29]4222)
 U+91E7 釧 | U+948F 钏 | #EACC link ([21/27]5D46)
@@ -2643,7 +2643,7 @@ U+923F 鈿 | U+94BF 钿 | #EACC link ([23/29]4274)
 U+9240 鉀 | U+94BE 钾 | #EACC link ([21/27]5D53)
 U+9248 鉈 | U+94CA 铊 | #EACC link ([23/29]4255)
 U+9249 鉉 | U+94C9 铉 | #EACC link ([23/29]4252)
-U+924B 鉋 | U+94C7 铇 | #EACC link ([21/27]5D54)
+U+924B 鉋 | U+94C7 铇 | U+5228 刨 | U+9464 鑤 | #EACC link ([21/27]5D54) AND kSemanticVariant of U+5228 is U+924B AND U+9464 is a variant of U+5228 (異體字字典)
 U+924D 鉍 | U+94CB 铋 | #EACC link ([23/29]4254)
 U+9251 鉑 | U+94C2 铂 | #EACC link ([21/27]5D57)
 U+9255 鉕 | U+94B7 钷 | #EACC link ([23/29]4260)
@@ -2669,7 +2669,7 @@ U+9296 銖 | U+94E2 铢 | #EACC link ([21/27]5D5E)
 U+9298 銘 | U+94ED 铭 | #EACC link ([21/27]5D5D)
 U+929A 銚 | U+94EB 铫 | #EACC link ([23/29]4355)
 U+929B 銛 | U+94E6 铦 | #EACC link ([23/29]435D)
-U+929C 銜 | U+8854 衔 | #EACC link ([21/27]5D61)
+U+929C 銜 | U+8854 衔 | U+5563 啣 | #EACC link ([21/27]5D61) AND U+5563 is variant of U+929C (異體字字典)
 U+92A0 銠 | U+94D1 铑 | #EACC link ([23/29]4346)
 U+92A3 銣 | U+94F7 铷 | #EACC link ([23/29]4364)
 U+92A5 銥 | U+94F1 铱 | #EACC link ([23/29]4331)
@@ -2683,7 +2683,7 @@ U+92B1 銱 | U+94DE 铞 | #EACC link ([23/29]434F)
 U+92B3 銳 | U+9510 锐 | U+92ED 鋭 | #EACC link ([21/27]5D64) AND kSimplifiedVariant of U+92ED is U+9510
 U+92B7 銷 | U+9500 销 | #EACC link ([21/27]5D66)
 U+92BB 銻 | U+9511 锑 | #EACC link ([21/27]5D63)
-U+92BC 銼 | U+9509 锉 | #EACC link ([21/27]5D69)
+U+92BC 銼 | U+9509 锉 | U+5249 剉 | #EACC link ([21/27]5D69) AND kSpecializedSemanticVariant of U+5249 is U+92BC
 U+92C1 鋁 | U+94DD 铝 | #EACC link ([21/27]5D67)
 U+92C3 鋃 | U+9512 锒 | #EACC link ([23/29]436A)
 U+92C4 鋄 | U+933D 錽 | #kZVariant of U+92C4 is U+933D
@@ -2710,7 +2710,7 @@ U+92F6 鋶 | U+950D 锍 | #EACC link ([23/29]436C)
 U+92F8 鋸 | U+952F 锯 | #EACC link ([21/27]5D6D)
 U+92FC 鋼 | U+94A2 钢 | #EACC link ([21/27]5D71)
 U+9301 錁 | U+951E 锞 | #EACC link ([23/29]4472)
-U+9304 錄 | U+5F55 录 | U+9332 録 | U+F93F 錄 | #EACC link ([21/27/2D]5D74) AND kZVariant of U+F93F is U+9304
+U+9304 錄 | U+5F55 录 | U+9332 録 | U+F93F 錄 | U+5F54 彔 | #EACC link ([21/27/2D]5D74) AND kZVariant of U+F93F is U+9304 AND U+5F55 is a variant of U+5F54 (異體字字典)
 U+9306 錆 | U+9516 锖 | #EACC link ([23/29/4D]445B)
 U+9307 錇 | U+952B 锫 | #EACC link ([23/29]444D)
 U+9308 錈 | U+9529 锩 | #EACC link ([23/29]4457)
@@ -2814,7 +2814,7 @@ U+9426 鐦 | U+950E 锎 | #EACC link ([23/29]4750)
 U+9427 鐧 | U+950F 锏 | #EACC link ([23/29]4751)
 U+9428 鐨 | U+9544 镄 | #EACC link ([23/4D]4754)
 U+942B 鐫 | U+954C 镌 | U+93B8 鎸 | #EACC link ([23/4D]4835) AND kSimplifiedVariant of U+93B8 is U+954C
-U+942E 鐮 | U+9570 镰 | U+5286 劆 | #EACC link ([21/27]5E3A) AND kZVariant of U+5286 is U+942E
+U+942E 鐮 | U+9570 镰 | U+5286 劆 | U+938C 鎌 | #EACC link ([21/27]5E3A) AND kZVariant of U+5286 is U+942E AND kSemanticVariant of U+938C is U+942E
 U+9432 鐲 | U+956F 镯 | #EACC link ([21/27]5E40)
 U+9433 鐳 | U+956D 镭 | #EACC link ([21/27]5E3C)
 U+9434 鐴 | U+943E 鐾 | #EACC link ([23/4D]477B)
@@ -2842,7 +2842,7 @@ U+9472 鑲 | U+9576 镶 | #EACC link ([21/27]5E46)
 U+9477 鑷 | U+954A 镊 | #EACC link ([23/29]4871)
 U+9479 鑹 | U+9569 镩 | #EACC link ([23/29]486F)
 U+947C 鑼 | U+9523 锣 | #EACC link ([21/27]5E49)
-U+947D 鑽 | U+94BB 钻 | U+945A 鑚 | #EACC link ([21/27/2D]5E4A)
+U+947D 鑽 | U+94BB 钻 | U+945A 鑚  | U+9246 鉆 | #EACC link ([21/27/2D]5E4A) AND kSemanticVariant of U+9246 is U+947D
 U+947E 鑾 | U+92AE 銮 | #EACC link ([21/27]5E48)
 U+947F 鑿 | U+51FF 凿 | #EACC link ([21/27]5E4B)
 U+9577 長 | U+957F 长 | U+9578 镸 | #EACC link ([21/27/2D]5E4C)
@@ -2855,7 +2855,7 @@ U+958B 開 | U+5F00 开 | #EACC link ([21/27]5E53)
 U+958C 閌 | U+95F6 闶 | #EACC link ([23/47]4931)
 U+958E 閎 | U+95F3 闳 | #EACC link ([23/29]4936)
 U+958F 閏 | U+95F0 闰 | #EACC link ([21/27]5E52)
-U+9591 閑 | U+95F2 闲 | #EACC link ([21/27]5E54)
+U+9591 閑 | U+95F2 闲 | U+9592 閒 | #EACC link ([21/27]5E54) AND kSimplifiedVariant of U+9592 is U+95F2
 U+9593 間 | U+95F4 间 | #EACC link ([21/27]5E55)
 U+9594 閔 | U+95F5 闵 | #EACC link ([21/27]5E51)
 U+9598 閘 | U+95F8 闸 | #EACC link ([21/27]5E57)
@@ -2889,7 +2889,7 @@ U+95D3 闓 | U+95FF 闿 | #EACC link ([23/29]4963)
 U+95D5 闕 | U+9619 阙 | #EACC link ([23/29]4960)
 U+95D6 闖 | U+95EF 闯 | #EACC link ([21/27]5E67)
 U+95DC 關 | U+5173 关 | U+95A2 関 | U+95D7 闗 | #EACC link ([21/27/4B]5E69) AND kZVariant of U+95D7 is U+95DC
-U+95DE 闞 | U+961A 阚 | #EACC link ([23/29]4969)
+U+95DE 闞 | U+961A 阚 | U+9B2B 鬫 | #EACC link ([23/29]4969) AND kSemanticVariant of U+9B2B is U+95DE
 U+95E0 闠 | U+9613 阓 | #EACC link ([23/29]496A)
 U+95E1 闡 | U+9610 阐 | #EACC link ([21/27]5E6A)
 U+95E4 闤 | U+961B 阛 | #EACC link ([23/29]4972)
@@ -3002,7 +3002,7 @@ U+9830 頰 | U+988A 颊 | U+982C 頬 | #EACC link ([21/27]6047) AND kZVariant of
 U+9832 頲 | U+988B 颋 | #EACC link ([23/29]4F45)
 U+9837 頷 | U+9894 颔 | #EACC link ([21/27]604B)
 U+9838 頸 | U+9888 颈 | U+981A 頚 | #EACC link ([21/27/4B]6048)
-U+9839 頹 | U+9893 颓 | U+983D 頽 | #EACC link ([21/27]604A) AND kSimplifiedVariant of U+983D is U+9893
+U+9839 頹 | U+9893 颓 | U+983D 頽 | U+7A68 穨 | #EACC link ([21/27]604A) AND kSimplifiedVariant of U+983D is U+9893 AND U+7A68 is a variant of U+9839 (異體字字典)
 U+983B 頻 | U+9891 频 | #EACC link ([21/27]6049)
 U+9846 顆 | U+9897 颗 | #EACC link ([21/27]604D)
 U+984C 題 | U+9898 题 | #EACC link ([21/27]6050)
@@ -3058,7 +3058,7 @@ U+9902 餂 | U+751B 甛 | U+751C 甜 | #EACC link ([23/2F]5128) AND kZVariant of
 U+9903 餃 | U+997A 饺 | #EACC link ([21/27]6070)
 U+9904 餄 | U+9978 饸 | #EACC link ([23/29]512B)
 U+9905 餅 | U+997C 饼 | U+9920 餠 | #EACC link ([21/27/2D]6078)
-U+9909 餉 | U+9977 饷 | #EACC link ([21/27]6073)
+U+9909 餉 | U+9977 饷 | U+995F 饟 | #EACC link ([21/27]6073) AND kSemanticVariant of U+995F is U+9909
 U+990A 養 | U+517B 养 | U+98EC 飬 | #EACC link ([21/27/2D]6071)
 U+990C 餌 | U+9975 饵 | #EACC link ([21/27]6072)
 U+990E 餎 | U+9979 饹 | #EACC link ([23/29]5129)
@@ -3070,7 +3070,7 @@ U+9913 餓 | U+997F 饿 | #EACC link ([21/27]6077)
 U+9915 餕 | U+9982 馂 | #kSimplifiedVariant of U+9915 is U+9982
 U+9916 餖 | U+997E 饾 | #EACC link ([23/29]512F)
 U+9918 餘 | U+4F59 余 | U+9980 馀 | #EACC link ([21/27/45]6076)
-U+991A 餚 | U+80B4 肴 | #kSimplifiedVariant of U+991A is U+80B4
+U+991A 餚 | U+80B4 肴 | U+6BBD 殽 | #kSimplifiedVariant of U+991A is U+80B4 AND U+6BBD is a variant of U+80B4 (異體字字典)
 U+991B 餛 | U+9984 馄 | #EACC link ([21/27]607B)
 U+991C 餜 | U+9983 馃 | #EACC link ([23/29]5140)
 U+991E 餞 | U+996F 饯 | #EACC link ([21/27]607A)
@@ -3384,7 +3384,7 @@ U+9E1E 鸞 | U+9E3E 鸾 | U+9D49 鵉 | U+F920 鸞 | #EACC link ([21/27/4B]624F) 
 U+9E75 鹵 | U+5364 卤 | U+6EF7 滷 | #EACC link ([23/29/2F]5D3C)
 U+9E79 鹹 | U+54B8 咸 | #EACC link ([21/27]6250)
 U+9E7A 鹺 | U+9E7E 鹾 | #EACC link ([23/29]5D42)
-U+9E7C 鹼 | U+7877 硷 | U+78B1 碱 | U+9E78 鹸 | U+7906 礆 | #EACC link ([21/27/2D/45]6252) AND kSimplifiedVariant of U+7906 is U+7877
+U+9E7C 鹼 | U+7877 硷 | U+78B1 碱 | U+9E78 鹸 | U+7906 礆 | U+583F 堿 | #EACC link ([21/27/2D/45]6252) AND kSimplifiedVariant of U+7906 is U+7877 AND kSemanticVariant of U+583F is U+9E7C
 U+9E7D 鹽 | U+76D0 盐 | U+5869 塩 | #EACC link ([21/27/2D]6251)
 U+9E7F 鹿 | U+F940 鹿 | #kZVariant of U+9E7F is U+F940
 U+9E84 麄 | U+9EA4 麤 | U+9E81 麁 | U+7C97 粗 | #EACC link ([23/2F/4D]5D49) AND kZVariant of U+7C97 is U+9E84
@@ -3445,3 +3445,63 @@ U+9F90 龐 | U+5E9E 庞 | U+5396 厖 | #EACC link ([21/27/2D]3D2D)
 U+9F94 龔 | U+9F9A 龚 | #EACC link ([21/27]632C)
 U+9F95 龕 | U+9F9B 龛 | #EACC link ([23/29]6062)
 U+9F9C 龜 | U+9F9F 龟 | U+4E80 亀 | U+F907 龜 | U+F908 龜 | #EACC link ([21/27/2D]632D) AND kZVariant of U+F907 is U+9F9C AND kZVariant of U+F908 is U+9F9C
+U+73EE 珮 | U+4F69 佩 | #U+73EE is a variant of U+4F69 (现代汉语词典)
+U+6BAD 殭 | U+50F5 僵 | #U+6BAD is a variant of U+50F5 (现代汉语词典)
+U+8599 薙 | U+5243 剃 | #U+8599 is a variant of U+5243 (異體字字典)
+U+5DF9 巹 | U+537A 卺 | #U+5DF9 is a variant of U+537A (異體字字典)
+U+5F14 弔 | U+540A 吊 | #kSemanticVariant U+5F14 is U+540A
+U+507A 偺 | U+54B1 咱 | #kSemanticVariant of U+507A is U+54B1
+U+54B7 咷 | U+5555 啕 | #kSemanticVariant of U+54B7 is U+5555
+U+9927 餧 | U+5582 喂 | U+9935 餵 | #kSemanticVariant of U+9927 is U+5582 AND kSpecializedSemanticVariant of U+9935 is U+5582
+U+8186 膆 | U+55C9 嗉 | #kSemanticVariant of U+8186 is U+55C9
+U+73EA 珪 | U+572D 圭 | #kSemanticVariant of U+73EA is U+572D
+U+9684 隄 | U+5824 堤 | #kSemanticVariant of U+9684 is U+5824
+U+4F15 伕 | U+592B 夫 | #U+4F15 is a variant of U+592B (異體字字典)
+U+4FB7 侷 | U+5C40 局 | U+8DFC 跼 | #U+5C40 is a variant of U+4FB7 (现代汉语词典) AND U+8DFC is a variant of U+4FB7 (现代汉语词典)
+U+4F9A 侚 | U+5F87 徇 | #U+4F9A is a variant of U+5F87 (異體字字典)
+U+91E6 釦 | U+6263 扣 | #U+91E6 is a variant of U+6263 (異體字字典)
+U+6440 摀 | U+6342 捂 | #U+6440 is a variant of U+6342 (现代汉语词典)
+U+8B54 譔 | U+64B0 撰 | #U+8B54 is a variant of U+64B0 (異體字字典)
+U+7843 硃 | U+6731 朱 | #kSimplifiedVariant of U+7843 is U+6731
+U+643E 搾 | U+69A8 榨 | #U+643E is a variant of U+69A8 (異體字字典)
+U+7C37 簷 | U+6A90 檐 | #kSemanticVariant of U+7C37 is U+6A90
+U+6B11 欑 | U+6AD5 櫕 | #U+6AD5 is a variant of U+6B11 (異體字字典)
+U+6147 慇 | U+6BB7 殷 | #U+6147 is a variant of U+6BB7 (现代汉语词典)
+U+96F0 雰 | U+6C1B 氛 | #U+96F0 is a variant of U+6C1B (異體字字典) 
+U+9711 霑 | U+6CBE 沾 | #U+9711 is a variant of U+6CBE (现代汉语词典)
+U+8852 衒 | U+70AB 炫 | #kSpecializedSemanticVariant of U+8852 is U+70AB
+U+92B2 銲 | U+710A 焊 | #U+92B2 is a variant of U+710A (现代汉语词典)
+U+7FEB 翫 | U+73A9 玩 | #U+7FEB is a variant of U+73A9 (異體字字典)
+U+73A8 玨 | U+73CF 珏 | #U+73CF is a variant of U+73A8 (異體字字典)
+U+74BF 璿 | U+7487 璇 | #kSemanticVariant of U+74BF is U+7487
+U+7515 甕 | U+74EE 瓮 | #kSemanticVariant of U+7515 is U+74EE
+U+757D 畽 | U+7583 疃 | #kSemanticVariant of U+757D is U+7583
+U+75FA 痺 | U+75F9 痹 | #kSemanticVariant of U+75FA is U+75F9
+U+7787 瞇 | U+772F 眯 | #U+7787 is a variant of U+772F (異體字字典)
+U+7760 睠 | U+7737 眷 | #U+7760 is a variant of U+7737 (異體字字典) 
+U+776A 睪 | U+777E 睾 | #U+777E is a variant of U+776A (異體字字典)
+U+77D9 矙 | U+77B0 瞰 | #kSemanticVariant of U+77D9 is U+77B0
+U+6917 椗 | U+7887 碇 | #U+6917 is a variant of U+7887 (異體字字典)
+U+7C06 簆 | U+7B58 筘 | #U+7C06 is a variant of U+7B58 (现代汉语词典)
+U+8E67 蹧 | U+7CDF 糟 | #U+8E67 is a variant of U+7CDF (異體字字典)
+U+7DB7 綷 | U+7D23 紣 | #U+7D23 is a variant of U+7DB7 (異體字字典)
+U+63F9 揹 | U+80CC 背 | #U+63F9 is a variant of U+80CC (異體字字典)
+U+9183 醃 | U+814C 腌 | #kSpecializedSemanticVariant of U+9183 is U+814C
+U+7FB6 羶 | U+81BB 膻 | #kSpecializedSemanticVariant of U+7FB6 is U+81BB
+U+6E2E 渮 | U+83CF 菏 | #U+6E2E is a variant of U+83CF (異體字字典)
+U+8515 蔕 | U+8482 蒂 | #U+8515 is a variant of U+8482 (異體字字典)
+U+8814 蠔 | U+869D 蚝 | #U+869D is a variant of U+8814 (现代汉语词典)
+U+880D 蠍 | U+874E 蝎 | #kSemanticVariant of U+880D is U+874E
+U+870B 蜋 | U+8782 螂 | #kSemanticVariant of U+870B is U+8782
+U+8837 蠷 | U+883C 蠼 | #U+883C is a variant of U+8837 (现代汉语词典)
+U+8373 荳 | U+8C46 豆 | #kSemanticVariant of U+8373 is U+8C46
+U+8DF4 跴 | U+8E29 踩 | #U+8DF4 is a variant of U+8E29 (现代汉语词典)
+U+8FC6 迆 | U+8FE4 迤 | #kSpecializedSemanticVariant of U+8FC6 is U+8FE4
+U+506A 偪 | U+903C 逼 | #kSemanticVariant of U+506A is U+903C 
+U+8E30 踰 | U+903E 逾 | #kSemanticVariant of U+8E30 is U+903E
+U+906F 遯 | U+9041 遁 | #kSemanticVariant of U+906F is U+9041
+U+530B 匋 | U+9676 陶 | #kSemanticVariant of U+530B is U+9676
+U+50F1 僱 | U+96C7 雇 | #kSemanticVariant of U+50F1 is U+96C7
+U+96DD 雝 | U+96CD 雍 | #U+96DD is a variant of U+96CD (異體字字典)
+U+9EF4 黴 | U+9709 霉 | #kSimplifiedVariant of U+9EF4 is U+9709
+U+97DD 韝 | U+97B2 鞲 | #kSemanticVariant of U+97DD is U+97B2
