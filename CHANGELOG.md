@@ -1,5 +1,12 @@
 # Change Log
 
+Modification date: 20240625
+
+Modified by: Howard Wong (PolyU)
+
+Changes: Some characters in the Ex Libris version of TSVCC table (used in Alma and Primo) are missing from the TSVCC table hosted in the GitHub repository. This update enhanced by adding the missing character.
+
+------------------------------------------------------------------
 Modified date: 20230613
 
 Modified by: Howard Wong (PolyU)
